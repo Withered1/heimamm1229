@@ -1,6 +1,13 @@
 <template>
   <div class="login">
-      <div class="left"></div>
+      <div class="left">
+          <div class="title">
+              <img src="@/assets/img/loginlogo.png" alt="">
+              <span class="titleName">黑马面面</span>
+              <span class="titleLine">|</span>
+              <span class="titleName2">用户登录</span>
+          </div>
+      </div>
       <div class="right">
           <img src="@/assets/img/login_banner_ele.png" alt="">
       </div>
